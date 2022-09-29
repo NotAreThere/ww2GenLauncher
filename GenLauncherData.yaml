@@ -2,10 +2,11 @@ ModificationType: Mod
 Name: World War 2
 Version: 0.27.6
 SimpleDownloadLink: http://cncww2.ru/download/genlauncher/ww2GenLauncher.zip
-UIImageSourceLink: http://cncww2.ru/download/genlauncher/launcher_500x100_0276_animation.png
+UIImageSourceLink: http://cncww2.ru/download/genlauncher/launcher_500x100_0276.jpg
+#UIImageSourceLink: http://cncww2.ru/download/genlauncher/launcher_500x100_0276_animation.png
 DiscordLink: https://discord.com/invite/mFZVBuZ
 ModDBLink: https://www.moddb.com/mods/ww2
-NewsLink: https://www.moddb.com/mods/ww2/news/the-full-patchnote-from-v-026-to-027
+NewsLink: https://www.moddb.com/mods/ww2/news/new-update-of-the-mod-19092022
 DependenceName: ''
 S3HostLink: gen.insave.ovh:9000
 S3BucketName: ww2
@@ -13,3 +14,33 @@ S3FolderName: prod
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: https://www.moddb.com/mods/ww2/tutorials/how-to-play-at-world-war-ii-in-generals-on-line
+Deprecated: false
+ColorsInformation:
+# v1
+#  GenLauncherBorderColor: '#354221'
+#  GenLauncherInactiveBorder: '#a29f9f'
+#  GenLauncherInactiveBorder2: '#354221'
+#  GenLauncherActiveColor: '#515736'
+#  GenLauncherDarkFillColor: '#515736'
+#  GenLauncherDarkBackGround: '#101010'
+#  GenLauncherLightBackGround: '#101010'
+#  GenLauncherDefaultTextColor: White
+#  GenLauncherDownloadTextColor: White
+#  GenLauncherListBoxSelectionColor2: '#242714'
+#  GenLauncherListBoxSelectionColor1: '#242714'
+#  GenLauncherButtonSelectionColor: '#354221'
+#  GenLauncherBackgroundImageLink: http://cncww2.ru/download/genlauncher/GlBg.png
+# v2
+  GenLauncherBorderColor: '#354221'
+  GenLauncherInactiveBorder: '#a29f9f'
+  GenLauncherInactiveBorder2: '#354221'
+  GenLauncherActiveColor: '#990000'
+  GenLauncherDarkFillColor: '#132712'
+  GenLauncherDarkBackGround: '#101010'
+  GenLauncherLightBackGround: '#141613'
+  GenLauncherDefaultTextColor: White
+  GenLauncherDownloadTextColor: White
+  GenLauncherListBoxSelectionColor2: '#132712'
+  GenLauncherListBoxSelectionColor1: '#132712'
+  GenLauncherButtonSelectionColor: '#686c5e'
+  GenLauncherBackgroundImageLink: http://cncww2.ru/download/genlauncher/GlBg.png
