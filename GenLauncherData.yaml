@@ -14,6 +14,7 @@ S3FolderName: prod
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: https://www.moddb.com/mods/ww2/tutorials/how-to-play-at-world-war-ii-in-generals-on-line
+SupportLink : https://www.donationalerts.com/r/generals_world_war_2
 Deprecated: false
 ColorsInformation:
 # v1
