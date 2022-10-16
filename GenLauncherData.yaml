@@ -1,8 +1,9 @@
 ModificationType: Mod
 Name: World War 2
-Version: 0.27.6
+Version: 0.27.7
 SimpleDownloadLink: http://cncww2.ru/download/genlauncher/ww2GenLauncher.zip
-UIImageSourceLink: http://cncww2.ru/download/genlauncher/launcher_500x100_0276.jpg
+UIImageSourceLink: https://cdn.discordapp.com/attachments/500003252625080330/1031317932233461861/launcher_500x100_orig.jpg
+#UIImageSourceLink: http://cncww2.ru/download/genlauncher/launcher_500x100_orig.jpg
 #UIImageSourceLink: http://cncww2.ru/download/genlauncher/launcher_500x100_0276_animation.png
 DiscordLink: https://discord.com/invite/mFZVBuZ
 ModDBLink: https://www.moddb.com/mods/ww2
@@ -43,5 +44,6 @@ ColorsInformation:
   GenLauncherListBoxSelectionColor2: '#132712'
   GenLauncherListBoxSelectionColor1: '#132712'
   GenLauncherButtonSelectionColor: '#686c5e'
-  GenLauncherBackgroundImageLink: http://cncww2.ru/download/genlauncher/GlBg.png
+  GenLauncherBackgroundImageLink: https://cdn.discordapp.com/attachments/500003252625080330/1031318358496387092/GlBg.png
+#  GenLauncherBackgroundImageLink: http://cncww2.ru/download/genlauncher/GlBg.png
 SupportLink : https://www.donationalerts.com/r/generals_world_war_2
