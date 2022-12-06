@@ -1,12 +1,12 @@
 ModificationType: Patch
 Name: Russian language for C&C WW2 mod
-Version: 0.27.7
+Version: 0.27.8
 SimpleDownloadLink: http://cncww2.ru/download/genlauncher/ww2GenLauncherRusPatch.zip
-UIImageSourceLink: https://cdn.discordapp.com/attachments/500003252625080330/1031317932233461861/launcher_500x100_orig.jpg
+UIImageSourceLink: https://cdn.discordapp.com/attachments/500003252625080330/1049500461746634832/launcher_500x100_tournament.jpg
 #UIImageSourceLink: http://cncww2.ru/download/genlauncher/launcher_500x100_orig.jpg
 DiscordLink: https://discord.com/invite/mFZVBuZ
 ModDBLink: https://www.moddb.com/mods/ww2
-NewsLink: https://www.moddb.com/mods/ww2/news/new-update-of-the-mod-19092022
+NewsLink: http://cncww2.ru/news/latest
 DependenceName: 'World War 2'
 S3HostLink: gen.insave.ovh:9000
 S3BucketName: ww2
