@@ -1,0 +1,15 @@
+ModificationType: Addon
+Name: testFix for C&C WW2 mod
+Version: 0.27.9
+SimpleDownloadLink: http://cncww2.ru/download/genlauncher/ww2GenLauncherTestFixAddon.zip
+UIImageSourceLink: http://cncww2.ru/download/genlauncher/launcher_500x100_0276.jpg
+DiscordLink: https://discord.com/invite/mFZVBuZ
+ModDBLink: https://www.moddb.com/mods/ww2
+NewsLink: http://cncww2.ru/news/latest
+DependenceName: 'World War 2'
+S3HostLink: gen.insave.ovh:9000
+S3BucketName: ww2
+S3FolderName: testFix
+S3HostPublicKey: ''
+S3HostSecretKey: ''
+NetworkInfo: https://vk.com/@cncww2-igra-po-lokalnoi-seti-cherez-radmin-vpn
