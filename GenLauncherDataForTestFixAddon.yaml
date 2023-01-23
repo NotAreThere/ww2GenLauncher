@@ -13,3 +13,4 @@ S3FolderName: testFix
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: https://vk.com/@cncww2-igra-po-lokalnoi-seti-cherez-radmin-vpn
+Deprecated: true
